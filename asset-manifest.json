@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/yasin-resume/static/css/main.237bf58b.css",
+    "main.js": "/yasin-resume/static/js/main.038d5d06.js",
+    "static/js/453.f19e9853.chunk.js": "/yasin-resume/static/js/453.f19e9853.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/yasin-resume/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/yasin-resume/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "index.html": "/yasin-resume/index.html",
+    "main.237bf58b.css.map": "/yasin-resume/static/css/main.237bf58b.css.map",
+    "main.038d5d06.js.map": "/yasin-resume/static/js/main.038d5d06.js.map",
+    "453.f19e9853.chunk.js.map": "/yasin-resume/static/js/453.f19e9853.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.237bf58b.css",
+    "static/js/main.038d5d06.js"
+  ]
+}
