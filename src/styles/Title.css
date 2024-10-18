@@ -1,0 +1,12 @@
+
+.TITLEFONTSIZE {
+	color:white;
+	font-size: 2rem;
+}
+
+@media screen and (max-width: 750px) {
+	
+	.TITLEFONTSIZE{
+		font-size: 1.2rem;
+	}	
+}

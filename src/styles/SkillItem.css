@@ -1,0 +1,18 @@
+
+.ICONSKILLPARAPH {
+	font-size: 0.8rem;
+}
+.ICONSKILLSIZE {
+	color: #ff4d4d;
+	font-size: 5rem;
+}
+
+@media screen and (max-width: 750px) {
+	
+	.ICONSKILLPARAPH{
+		font-size: 0.8rem;
+	}	
+	.ICONSKILLSIZE {
+		font-size: 3.5rem;
+	}
+}

@@ -1,0 +1,15 @@
+.PROFILEIMAGE{
+	height: 250px;
+	width: 250px;
+	border-radius: 50%;
+	box-shadow: 0 0 2px 2px rgba(255, 0, 0, 0.1);
+}
+
+@media screen and (max-width: 750px) {
+	
+	.PROFILEIMAGE{
+		height: 150px;
+		width: 150px;
+		border-radius: 50%;
+	}	
+}

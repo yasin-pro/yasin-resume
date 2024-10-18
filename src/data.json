@@ -1,0 +1,77 @@
+{
+   "title":"Hello I'm Yasin!",
+   "imageProfileUrl":"https://avatars.githubusercontent.com/u/83522972?v=4",
+   "subTitle":"Ai | Data Scientist | Full Stack Dev | Hacker | Geek",
+   "links":[
+      {
+         "title": "instagram",
+         "url": "https://instagram.com/yasinzeinaliyan/",
+         "svg": "bi bi-instagram"
+      },
+      {
+         "title": "github",
+         "url": "https:github.com/yasin-pro/",
+         "svg": "bi bi-github"
+      },
+      {
+         "title": "linkdin",
+         "url": "https://www.linkedin.com/in/yasin-zeinaliyan",
+         "svg": "bi bi-linkedin"
+      },
+      {
+         "title": "telegram",
+         "url": "https://t.me/yasinzeinaliyan",
+         "svg": "bi bi-telegram"
+      }
+      
+   ],
+   "sections":[
+      {
+         "title":"About myself",
+         "content": "I am a simple programmer and I consider myself more of a geek than a programmer because computers are attractive to me and I spend most of my time behind the computer since I was a child and my loneliness and life have no meaning without computers and mathematics.",
+         "items":[
+            {
+               "title":"About my character",
+               "contents": [
+                  "I have a strategic personality",
+                  "I am critical and familiar with critical thinking",
+                  "It is very important for me to learn and that the work has the best results"
+               ]
+            },
+            {
+               "title":"About favorites",
+               "contents": [
+                  "I am interested in Linux system and open source projects",
+                  "I am very interested in playing chess and I have read the book Basics of Chess Theory by Mazelis",
+                  "I am interested in reading and studying philosophy and mathematics"
+               ]
+            }
+         ]
+      },
+      {
+         "title":"Skills",
+         "content": "The general skills I know in the field of programming generally include these languages, of course, I have worked with languages ​​such as Go, C++, etc.",
+         "items":[
+            {
+               "icon": "filetype-js",
+               "title":"Javascript",
+               "content":"I got to know the JavaScript language from the beginning of my career and used it in the front, and sometimes it was more useful for me to hunt bugs.",
+               "progress": "80"
+            },
+            {
+               "icon": "filetype-py",
+               "title":"Python",
+               "content":"Python was the first language I started programming with, and I use it to write security tools and website backends, and it is also very useful for data analysis...",
+               "progress": "90"
+            },
+            {
+               "icon": "c-circle",
+               "title":"C",
+               "content":"The C programming language helped me to better understand the computer and its architecture and to understand the algorithms more easily...",
+               "progress": "75"
+            }
+            
+         ]
+      }
+   ]
+}

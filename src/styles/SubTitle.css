@@ -1,0 +1,12 @@
+
+.SUBTITLEFONTSIZE {
+	color:#dddddd;
+	font-size: 1.4rem;
+}
+
+@media screen and (max-width: 750px) {
+	
+	.SUBTITLEFONTSIZE{
+		font-size: 0.85rem;
+	}	
+}

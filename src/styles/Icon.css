@@ -1,0 +1,19 @@
+
+.ICONTITLE {
+	color:white;
+	font-size: 1rem;
+}
+.ICONSIZE {
+	color: #ffc3c3;
+	font-size: 2rem;
+}
+
+@media screen and (max-width: 750px) {
+	
+	.ICONTITLE{
+		font-size: 0.9rem;
+	}	
+	.ICONSIZE {
+		font-size: 1.5rem;
+	}
+}

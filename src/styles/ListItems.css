@@ -1,0 +1,21 @@
+.LISTITEMTITLE{
+	font-size: 1.1rem;
+	color: white;
+}
+.LISTITEMPARAPH{
+	font-size: 1rem;
+	color: #ccc;
+	text-align: start;
+}
+
+@media screen and (max-width: 750px) {
+	
+	.LISTITEMTITLE{
+		font-size: 0.8rem;
+		color: white;
+	}
+	.LISTITEMPARAPH{
+		font-size: 0.75rem;
+		color: #ccc;
+	}
+}

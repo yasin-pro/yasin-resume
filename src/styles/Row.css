@@ -1,0 +1,8 @@
+.ROWCLASS{
+	min-height: 100vh;
+	max-height: auto;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+  	box-sizing: border-box;
+}
